@@ -9,3 +9,5 @@ The code also allows the user to:
      being restored during decryption
   2) Encrypt the same file with multiple passwords, with multiple directories
      being created and their naming scheme auto-adjusted.
+
+Reference from article by Mr Lokesh Gupta: https://howtodoinjava.com/security/java-aes-encryption-example/
